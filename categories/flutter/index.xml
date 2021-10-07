@@ -69,16 +69,5 @@ List of state management approaches</description>
       <description>After the first release Flutter is being too obvious to avoid it, lots of people are talking about flutter, and the technology behind it is interesting enough to check out. I liked how it performs(a lot faster than other cross-platform competitors), documentation is also good, so I decided to give it a try. But I&amp;rsquo;m not fully satisfied with the installation procedure, You have to read a few paragraphs to just install but that could have been done through Homebrew / APT / Nuget or whatever(any other package manager) However unofficially it is possible to install Flutter through Homebrew on Mac.</description>
     </item>
     
-    <item>
-      <title>Flutter Starter Pack</title>
-      <link>https://sadmansamee.github.io/flutter_starter_pack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sadmansamee.github.io/flutter_starter_pack/</guid>
-      <description>Project Generator  Very Good Cli It will nicely genearate a project with all the basic setup, but with bloc state management, you can simply replace with any other state management library.  State Management I&amp;rsquo;m comfortable using any of them. Both of them are really nice and well written lirbary.
- RiverPod Bloc  Service Locator For service locator dependency Get It is an excellent library.
-Code Generator  To generate Json Model, State Class, Union Classe Freezed works wonderfully, In order to avoid hard coding assets files names better use Flutter Gen.</description>
-    </item>
-    
   </channel>
 </rss>
