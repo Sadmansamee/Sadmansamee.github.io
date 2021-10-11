@@ -6,7 +6,18 @@
     <description>Recent content in Dart on Thoughtful Texts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 May 2021 19:33:35 -0800</lastBuildDate><atom:link href="https://sadmansamee.github.io/tags/dart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Oct 2021 19:33:35 -0800</lastBuildDate><atom:link href="https://sadmansamee.github.io/tags/dart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter Starter Pack</title>
+      <link>https://sadmansamee.github.io/flutter_starter_pack/</link>
+      <pubDate>Thu, 07 Oct 2021 19:33:35 -0800</pubDate>
+      
+      <guid>https://sadmansamee.github.io/flutter_starter_pack/</guid>
+      <description>Project Generator  Very Good Cli It will nicely genearate a project with all the basic setup, but with bloc state management, you can simply replace with any other state management library.  State Management I&amp;rsquo;m comfortable using any of them. Both of them are really nice and well written lirbary.
+ RiverPod Bloc  Service Locator For service locator dependency Get It is an excellent library.
+Tool  Flutter Version Management A simple CLI to manage Flutter SDK versions.</description>
+    </item>
+    
     <item>
       <title>Migrate to flutter null safety safely</title>
       <link>https://sadmansamee.github.io/flutter_null_safety/</link>
