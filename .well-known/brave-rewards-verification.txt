@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sadmansamee.github.io
+Token: 9159911bfb656a299f77575d3cd61731be7ecfac6718c4bca869e279883bf289
