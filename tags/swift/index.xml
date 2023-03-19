@@ -24,7 +24,7 @@ SwiftUI and Combine SwiftUI and Combine is the latest and most exciting thing in
       
       <guid>https://sadmansamee.github.io/cachy/</guid>
       <description>Needed a cache Library that has
- Asynchronous data downloading and caching. Asynchronous image downloading, caching and showing. Expiry date/time for all the objects individually. Multiple-layer hybrid cache for both memory and disk. Fine control on cache behavior. Customizable expiration date and size limit. Force refresh if needed. Independent components. Use the Cachy or CachyLoader system separately as you need. Can save JSON, UIImage, ZIP or anything. View extensions for UIImageView.</description>
+Asynchronous data downloading and caching. Asynchronous image downloading, caching and showing. Expiry date/time for all the objects individually. Multiple-layer hybrid cache for both memory and disk. Fine control on cache behavior. Customizable expiration date and size limit. Force refresh if needed. Independent components. Use the Cachy or CachyLoader system separately as you need. Can save JSON, UIImage, ZIP or anything. View extensions for UIImageView. Indicator while loading images.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ SwiftUI and Combine SwiftUI and Combine is the latest and most exciting thing in
       <guid>https://sadmansamee.github.io/keep_ios_projects_healthy/</guid>
       <description>Keeping your code and projects is the best thing you can do to your projects and here’s how to do it your iOS projects written in swift.
 Following style guide There are several style guide for writing swift, and every team member should follow them well. Such as
- Raywinderlich style guide Linkedin style guide Google style guide  Using tools In reality not everyone does it properly so there should be a way to enforce it amongst team members, a way of doing is manual code review which is very time-consuming and code review should happen in logic level not how a developer should declare variable or indentation, we could simple automate these things and invest our time more on harder things.</description>
+Raywinderlich style guide Linkedin style guide Google style guide Using tools In reality not everyone does it properly so there should be a way to enforce it amongst team members, a way of doing is manual code review which is very time-consuming and code review should happen in logic level not how a developer should declare variable or indentation, we could simple automate these things and invest our time more on harder things.</description>
     </item>
     
   </channel>

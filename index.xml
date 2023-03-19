@@ -13,9 +13,8 @@
       <pubDate>Thu, 07 Oct 2021 19:33:35 -0800</pubDate>
       
       <guid>https://sadmansamee.github.io/flutter_starter_pack/</guid>
-      <description>Project Generator  Very Good Cli It will nicely genearate a project with all the basic setup, but with bloc state management, you can simply replace with any other state management library.  State Management I&amp;rsquo;m comfortable using any of them. Both of them are really nice and well written lirbary.
- RiverPod Bloc  Service Locator For service locator dependency Get It is an excellent library.
-Tool  Flutter Version Management A simple CLI to manage Flutter SDK versions.</description>
+      <description>Project Generator Very Good Cli It will nicely genearate a project with all the basic setup, but with bloc state management, you can simply replace with any other state management library. State Management Both of them are really nice and well written lirbary. You could choose any, bloc requires a bit more code and riverpod is a bit more flexible.
+RiverPod Bloc Service Locator For service locator dependency Get It is an excellent library.</description>
     </item>
     
     <item>
@@ -78,7 +77,7 @@ I work at a start-up. And like any other start-up, it has that typical start-up 
       
       <guid>https://sadmansamee.github.io/cachy/</guid>
       <description>Needed a cache Library that has
- Asynchronous data downloading and caching. Asynchronous image downloading, caching and showing. Expiry date/time for all the objects individually. Multiple-layer hybrid cache for both memory and disk. Fine control on cache behavior. Customizable expiration date and size limit. Force refresh if needed. Independent components. Use the Cachy or CachyLoader system separately as you need. Can save JSON, UIImage, ZIP or anything. View extensions for UIImageView.</description>
+Asynchronous data downloading and caching. Asynchronous image downloading, caching and showing. Expiry date/time for all the objects individually. Multiple-layer hybrid cache for both memory and disk. Fine control on cache behavior. Customizable expiration date and size limit. Force refresh if needed. Independent components. Use the Cachy or CachyLoader system separately as you need. Can save JSON, UIImage, ZIP or anything. View extensions for UIImageView. Indicator while loading images.</description>
     </item>
     
     <item>
@@ -97,7 +96,7 @@ I work at a start-up. And like any other start-up, it has that typical start-up 
       
       <guid>https://sadmansamee.github.io/webrtc/</guid>
       <description>Anybody who worked with WebRTC will agree that there is a huge lack of learning resources and on top of that on every few years, WebRTC standards changes and changes are big sometimes that makes previous resources outdated, creating more gap.
- WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs. The WebRTC components have been optimized to best serve this purpose.</description>
+WebRTC is a free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs. The WebRTC components have been optimized to best serve this purpose.</description>
     </item>
     
     <item>
@@ -108,7 +107,7 @@ I work at a start-up. And like any other start-up, it has that typical start-up 
       <guid>https://sadmansamee.github.io/keep_ios_projects_healthy/</guid>
       <description>Keeping your code and projects is the best thing you can do to your projects and here’s how to do it your iOS projects written in swift.
 Following style guide There are several style guide for writing swift, and every team member should follow them well. Such as
- Raywinderlich style guide Linkedin style guide Google style guide  Using tools In reality not everyone does it properly so there should be a way to enforce it amongst team members, a way of doing is manual code review which is very time-consuming and code review should happen in logic level not how a developer should declare variable or indentation, we could simple automate these things and invest our time more on harder things.</description>
+Raywinderlich style guide Linkedin style guide Google style guide Using tools In reality not everyone does it properly so there should be a way to enforce it amongst team members, a way of doing is manual code review which is very time-consuming and code review should happen in logic level not how a developer should declare variable or indentation, we could simple automate these things and invest our time more on harder things.</description>
     </item>
     
     <item>
@@ -148,7 +147,7 @@ Let&amp;#x27;s Learn Kotlin by sadman samee tonmoy on Scribd</description>
       <description>Hi, This is Sadman Samee. I&amp;rsquo;m specialized on mobile application development.
 Find me on Twitter , LinkedIn and Github.
 I made many iOS, Android applications, I also made some variety of open source projects including:
- https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet https://github.com/SimpleBoilerplates/Flutter https://github.com/Sadmansamee/CachyKit https://github.com/Sadmansamee/Articly https://github.com/SimpleBoilerplates/iOS https://github.com/SimpleBoilerplates/Android https://github.com/SimpleBoilerplates/React-Native  </description>
+https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet https://github.com/SimpleBoilerplates/Flutter https://github.com/Sadmansamee/CachyKit https://github.com/Sadmansamee/Articly https://github.com/SimpleBoilerplates/iOS https://github.com/SimpleBoilerplates/Android https://github.com/SimpleBoilerplates/React-Native </description>
     </item>
     
   </channel>

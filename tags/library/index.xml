@@ -14,7 +14,7 @@
       
       <guid>https://sadmansamee.github.io/cachy/</guid>
       <description>Needed a cache Library that has
- Asynchronous data downloading and caching. Asynchronous image downloading, caching and showing. Expiry date/time for all the objects individually. Multiple-layer hybrid cache for both memory and disk. Fine control on cache behavior. Customizable expiration date and size limit. Force refresh if needed. Independent components. Use the Cachy or CachyLoader system separately as you need. Can save JSON, UIImage, ZIP or anything. View extensions for UIImageView.</description>
+Asynchronous data downloading and caching. Asynchronous image downloading, caching and showing. Expiry date/time for all the objects individually. Multiple-layer hybrid cache for both memory and disk. Fine control on cache behavior. Customizable expiration date and size limit. Force refresh if needed. Independent components. Use the Cachy or CachyLoader system separately as you need. Can save JSON, UIImage, ZIP or anything. View extensions for UIImageView. Indicator while loading images.</description>
     </item>
     
   </channel>
